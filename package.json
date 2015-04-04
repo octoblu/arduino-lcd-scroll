@@ -1,0 +1,20 @@
+{
+  "name": "arduino-lcd-scroll",
+  "repository": "octoblu/arduino-lcd-scroll",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node command.js",
+    "test": "exit 0"
+  },
+  "dependencies": {
+    "debug": "^2.1.0",
+    "johnny-five": "^0.8.50",
+    "lcd-scrolling": "^1.0.1",
+    "lodash": "^3.6.0",
+    "meshblu": "^1.9.0"
+  },
+  "keywords": [
+    "meshblu-connector",
+    "gateblu"
+  ]
+}
